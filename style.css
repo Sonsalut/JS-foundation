@@ -1,0 +1,68 @@
+body {
+    background-color: #CC9966;
+}
+.header {
+    padding: 10px;
+    background-color: #a87a48;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.rule {
+    display: flex;
+    justify-content: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+    padding: 40px 0px;
+}
+.Btn {
+    width: 150px;
+    height: 70px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 22px;
+    border-radius: 10%;
+    color: #43270a;
+}
+.scoreContainer {
+    display:flex;
+    justify-content: center;
+    justify-content:space-around;
+}
+.scoreBoard {
+    text-align: center;
+    padding: 40px 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 30px;
+}
+.score {
+    padding-top: 20px;
+}
+.result {
+    text-align: center;
+    padding: 40px 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding: 30px;
+}
+.result p {
+    font-size: 28px;
+}
+.choice {
+    padding: 40px;
+}
